@@ -1,1 +1,1 @@
-#first code of python
+# Sylani assignments given by Sir Umair Nawaz in cloud data engineering course
